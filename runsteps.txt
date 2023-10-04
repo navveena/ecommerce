@@ -1,0 +1,51 @@
+pip install django
+pip install sqlparse
+pip install xhtml2pdf
+pip install django-widget-tweaks
+
+
+
+
+no need for migrationscommand
+
+
+default admin
+
+admin
+admin123
+
+
+python manage.py createsuperuser
+
+
+python manage.py runserver
+
+127.0.0.1:8000
+
+signup first
+check login and check
+
+
+choose any image and see add cart button
+
+click cart and purchase
+
+once donwe
+
+logout
+
+login as admin
+it will pending
+
+go to top menu
+view orders
+pending -edit-order confirmed select it
+
+
+use + SYMBOL TO ADD NEW SECTION
+
+
+download -db browser for sqlite and go to file and open database 
+f:\django\ecommerce\sqlite
+
+see ecom_customer -rightclick-browse table
